@@ -3,7 +3,7 @@ k-Nearest Neighbours finds the most similar training examples (how close in term
 It classifies the test examples by a majority vote among the k-most similar examples  
 
 
-k-Nearest Neighbours is a non-parametric and lazy algorithm 
+k-Nearest Neighbours is a non-parametric and a lazy algorithm 
 >Non-parametic: Does not make any assumptions about the distributions of the underlying data    
 >Lazy : Does not use the training data points to do any generalization i.e. It is fast 
 
